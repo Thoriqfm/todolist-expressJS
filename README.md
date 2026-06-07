@@ -1,4 +1,4 @@
-# Todo API — Express + MySQL
+# Todo API : Express + MySQL
 
 ![REST API Illustration](https://miro.medium.com/1*y5m2WvS5B5gnM-bb1_v20A.png)
 
