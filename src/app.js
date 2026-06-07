@@ -1,6 +1,6 @@
 const express = require("express");
 const todoRoutes = require("./routes/routes");
-const { errorHandler } = require("./middleware/middleware");
+const { errorHandler } = require("./middleware/errorHandler");
 
 const app = express();
 
